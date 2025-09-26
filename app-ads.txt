@@ -1,0 +1,3 @@
+google.com, pub-3150186399700614, DIRECT, f08c47fec0942fa0
+unityads.unity3d.com, 5882780, DIRECT
+ironsrc.com, 22843e695, RESELLER
